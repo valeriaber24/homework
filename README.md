@@ -1,2 +1,2 @@
 # homework
-Homework solutions from courses
+it`s homework solutions from courses
